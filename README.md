@@ -1,1 +1,1 @@
-# Intelligent-Garbage-classifcation-
+# Intelligent-Garbage-classifcation-Using-Deep-Learning
